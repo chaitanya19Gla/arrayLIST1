@@ -1,0 +1,13 @@
+BINARY TREES
+
+--> Its a herarichia Data structure
+       1        -----------------------> LEVEL 1   /   DEPTH(1)
+      /  \
+     2    3     -----------------------> LEVEL 2   /   DEPTH(2)
+    / \   / \
+   4   5 6   7  -----------------------> LEVEL 3   /   DEPTH(3)
+
+LEAVES = 4,5,6,7 ( DON'T HAVE A BRANCH )
+ROOT = 1 { FIRST ELEMENT AT TOP IS ROOT }
+BRANCH = 1 -> 2,3
+SUB-TREE = 1 -> LEFT-SUB-TREE(2) & RIGHT-SUB-TREE(3)
